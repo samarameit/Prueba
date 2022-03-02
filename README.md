@@ -2,10 +2,10 @@
 
 ## Índice  
 
-## Introduccion  
+## Introducción
 
-## Instalacion  
+## Instalación  
 
-## Ejercicos  
+## Ejercicios  
 
 ## Referencia
